@@ -1,0 +1,2 @@
+- [Hurl Manual](https://hurl.dev/)
+- [hurl.nvim](https://github.com/jellydn/hurl.nvim)
